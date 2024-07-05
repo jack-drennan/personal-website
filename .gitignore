@@ -40,3 +40,8 @@ Thumbs.db
 ###########
 
 website-keypair.pem
+
+# node_modules #
+################
+
+node_modules
