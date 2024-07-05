@@ -1,0 +1,14 @@
+body{
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color: #777777;
+    font-size: 25px;
+    color: blue;
+}
+nav{
+    font-size : 25px;
+}
+table {
+    width: 100%;
+}
